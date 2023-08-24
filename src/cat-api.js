@@ -1,6 +1,6 @@
 import axios from "axios";
 import Notiflix from "notiflix";
-axios.defaults.baseURL = 'https://api.thecatapi.com/v1/'; //! Разобраться!
+axios.defaults.baseURL = 'https://api.thecatapi.com/v1/';
 axios.defaults.headers.common["x-api-key"] = "live_rnU55rCXqKPD83Egmapcdap90VKAblzQGTKZl8H3JKOckJcU60JEOZSi2DteHMrS";
 
 
